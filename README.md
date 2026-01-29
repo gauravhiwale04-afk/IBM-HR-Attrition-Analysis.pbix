@@ -17,3 +17,6 @@ Power BI (DAX, Power Query).
 
 Dataset: IBM HR Analytics (Kaggle).
 
+Dashboard Preview:
+<img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/0a3f252e-659b-4f6a-bf3a-5a037561e115" />
+
